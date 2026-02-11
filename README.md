@@ -1,6 +1,6 @@
 # ai-agents-account-management
 
-<img width="500" alt="2026-02-12_Code_00-25-16@2x" src="https://github.com/user-attachments/assets/22b1b176-ff22-4977-af7a-0e250eab488d" />
+
 
 <img width="500" alt="2026-02-12_Code_00-24-53@2x" src="https://github.com/user-attachments/assets/9133437e-e98a-42fa-8a7b-67671615b00b" />
 
