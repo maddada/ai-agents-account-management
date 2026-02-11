@@ -1,8 +1,8 @@
 # ai-agents-account-management
 
-<img width="1368" height="748" alt="2026-02-12_CleanShot_00-38-32" src="https://github.com/user-attachments/assets/dea78275-d21b-46b1-98f6-0677d00d7529" />
+<img width="500" alt="2026-02-12_CleanShot_00-38-32" src="https://github.com/user-attachments/assets/dea78275-d21b-46b1-98f6-0677d00d7529" />
 
-<img width="1368" height="748" alt="2026-02-12_Code_00-24-53@2x" src="https://github.com/user-attachments/assets/9133437e-e98a-42fa-8a7b-67671615b00b" />
+<img width="500" alt="2026-02-12_Code_00-24-53@2x" src="https://github.com/user-attachments/assets/9133437e-e98a-42fa-8a7b-67671615b00b" />
 
 Summary: Multi-account profile setup is complete for both Claude Code and Codex CLI.
 
